@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.full-website{
+    text-align: center;
+    color:white;
+    width: 1024px;
+    margin: 20px auto;
+    box-shadow: 1px 1px 6px rgba(0,0,0,.4);
+    
+}
+.menu{
+    background: #923482;
+    padding: 20px;
+}
+
+.container{
+    background: #0bce7d;
+    padding: 20px;
+}
+.footer{
+    background: #483a3a;
+    padding: 20px;
+}
+.footer-bottom{
+    background: #3f3636;
+}
+img{
+    width: 1024px;
+    margin-bottom: -5px;
+}
